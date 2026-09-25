@@ -14,7 +14,7 @@ In an effort to move away from dynamic website‑generation tools and improve my
 
 Curious about what this coursework entails? Head on over to my courses page, where you can read about course objectives and how I plan on integrating my personal research interests into some pretty cool projects.
 
-**Things I care about and topics you can expect to read about:**
+**Things I care about:**
 * Social media driven fads and microtrends
 * Platform and surveillance capitalism
 * Aesthetic ideals and body image
