@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Featured Image"
-date:   2014-12-14
+date:   2026-09-25
 image: uofg-campus.png
 ---
 
