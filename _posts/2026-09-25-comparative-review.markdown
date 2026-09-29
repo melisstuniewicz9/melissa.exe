@@ -8,7 +8,7 @@ description: In this piece, I will provide a comparative review of three stories
 
 <p class="intro"><span class="dropcap">W</span>ith regards to emotion, StoryCenter founder Joe Lambert emphasizes that audiences respond most strongly when a story carries genuine meaning for the author. Despite my many criticism of Lambert’s bureaucratic model of digital storytelling and his relentless attempts at theorizing the movement, I must admit that I share this particular sentiment, especially when the humanization of marginalized groups is the primary objective.</p>
 
-For this piece, I have chosen to analyze three different girls’ education activists who share vulnerable stories through varying technological means (some of which are more effective than others), but are united by the fact that their passion for facilitating social change is ignited by their own lived experiences. To ground my analysis, I will be leaning heavily on Nassim Parvin's ideas of how to do justice to stories, and will critically examine whether the technological tools used to facilitate these stories * or render them flat. 
+For this piece, I have chosen to analyze three different girls’ education activists who share vulnerable stories through varying technological means (some of which are more effective than others), but are united by the fact that their passion for facilitating social change is ignited by their own lived experiences. To ground my analysis, I will be leaning heavily on Nassim Parvin's ideas of how to do justice to stories, and will critically examine whether the technological tools used to facilitate these stories adequately capture their emotional nuance or render them flat. 
 
 #### [Varaidzo Kativhu's Honourary Doctorate Speech](https://www.youtube.com/watch?v=IWrlWGZK6MQ&t=440s)
 
@@ -27,7 +27,7 @@ I recognize that an address given to a live audience may not be what initially c
  
 
 <figure>
-  <img src="/assets/img/dream-big-img.jpg" alt="Dream Big on pink background">
+  <img src="https://melisstuniewicz9.github.io/melissa.exe/assets/img/dream-big.jpg" alt="Dream Big on pink background">
   <figcaption>
     'Dream Big' text on a pink watercolor background, by Ann H. Via <a href="https://www.pexels.com/photo/motivational-slogan-against-pink-background-11159183/" target="_blank" rel="noopener">Pexels</a>
   </figcaption>
@@ -46,7 +46,7 @@ I do not believe for a second that it is possible to convey these emotions in a 
 #### [Malala Yousafzai’s Digital Timeline]((https://malala.org/malalas-story))
 
 <figure>
-  <img src="/assets/img/malala-img.jpg" alt="Malala Yousafzai in 2015">
+  <img src="https://melisstuniewicz9.github.io/melissa.exe/assets/img/malala-img.jpg" alt="Malala Yousafzai in 2015">
   <figcaption>
     Malala Yousafzai in 2015, taken by Simon Davis/DFID. Via <a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Malala_Yousafzai_2015.jpg/960px-Malala_Yousafzai_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" target="_blank" rel="noopener">Wikimedia Commons</a>
   </figcaption>
@@ -66,7 +66,7 @@ For those who prefer to read rather than to listen, but still want to experience
 #### [Being Unstoppable - A 2011 Film by Zuriel Oduwole](https://www.youtube.com/watch?v=KBxG08yr4uI)
 
 <figure>
-  <img src="/assets/img/zuriel-img.jpg" alt="Zuriel Oduwole speaking at the University of West Indies in Jamaica">
+  <img src="https://melisstuniewicz9.github.io/melissa.exe/assets/img/zuriel-img.jpg" alt="Zuriel Oduwole speaking at the University of West Indies in Jamaica">
   <figcaption>
     Zuriel Oduwole in 2019 speaking at the University of West Indies in Jamaica, by Afiamarie. Via <a href="https://commons.wikimedia.org/wiki/File:Speaking_at_the_University_of_West_Indies_in_Jamaica.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>
   </figcaption>
@@ -79,7 +79,7 @@ I felt that it would be useful to save Odowole’s short film for last. as her d
 I want to quickly note that I absolutely do not intend to minimize the impact of Odowole’s advocacy work. A young woman of colour who is committed to educational policy reform in African nations through filmmaking, is nothing short of inspiring, but I am simply pointing out a possible emotional disconnect upon the discovery that the work is informed through observation instead of lived adversity. 
 
 <figure>
-  <img src="/assets/img/camera-film.jpg" alt="Sony FS7 cinema camera system">
+  <img src="https://melisstuniewicz9.github.io/melissa.exe/assets/img/camera-film.jpg" alt="Sony FS7 cinema camera system">
   <figcaption>
     Sony FS7 cinema camera system, by Sam McGhee. Via <a href="https://unsplash.com/photos/person-sitting-in-front-bookshelf-KieCLNzKoBo" target="_blank" rel="noopener">Unsplash</a>
   </figcaption>
@@ -88,7 +88,6 @@ I want to quickly note that I absolutely do not intend to minimize the impact of
 Another element that makes this digital story unique from the previous two is that it was facilitated through a brand partnership campaign with [_Always_](https://www.always.com/en-us), a global brand of menstrual hygiene products. A co-sign from a multinational brand provides Odowole with a political and social realm more powerful than her own, which is great in terms of generating impressions from those who would have not come across her advocacy work organically. Although Oduwole’s film contains all the elements of an immersive story (her own voiceover, an uplifting soundtrack, footage of African girls in school) and showcases her genuine passion for enacting meaningful social change, I cannot help but feel as if the emotional impact was flattened through the knowledge that the story is an advertisement **(see 0:51)**, where a classroom full of students is shown with packages of _Always_-branded pads on their laps.
 
 Parvin warns that modern technologies used in digital storytelling can turn them into commodities, and the brand clearly understood that the campaign would garner more support and emotional investment through the platforming of a youth education advocate who has received worldwide recognition. Odowule is undoubtedly a talented filmmaker, and I have no doubts that the media she produces entirely on her own, where she is in full control of narration and imagery, would do far more justice to the stories of African girls out of school, than a commercial ever could.
-
 
 #### References
 
