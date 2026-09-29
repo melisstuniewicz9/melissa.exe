@@ -18,10 +18,6 @@ Students will have the chance to use their creative skills to build a digital st
 will focus on ethical research practices, digital communication, assessing digital storytelling tools, and what it means to do humanities in, for, and with
 the public.
 
-**My Approach:**
-
-Placeholder Text
-
 ### CTS4010: Project Management and Prototyping
 
 This course, in combination with 4020, is the culmination of the Culture and Technology
@@ -29,7 +25,3 @@ Studies program, offering students an opportunity to consolidate, build, and ref
 
 Students will articulate your own methodology that combines theory and practice. Through prototyping, they will acquire new skills and refine existing ones, learning how to design a feasible project and creating a plan to implement it in the Winter semester. By the end of this course, students should be clear on your goals and methods, and
 poised to create a meaningful and successful capstone project.
-
-**My Approach:**
-
-Placeholder Text
