@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Examination of Methods that Do Justice Digital Stories: A Comparative Review"
+title:  "An Examination of Methods that Do Justice to Digital Stories: A Comparative Review"
 date:   2026-09-25
 image: rose-books.jpg
 description: In this piece, I will provide a comparative review of three stories surrounding girls' education advocacy and critically discuss whether the technological mediums used to facilitate them, do justice to their narratives or render them flat,  with emphasis on how these stories evoke emotional responses from audiences. 
