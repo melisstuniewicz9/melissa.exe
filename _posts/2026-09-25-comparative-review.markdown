@@ -27,7 +27,7 @@ I recognize that an address given to a live audience may not be what initially c
  
 
 <figure>
-  <img src="https://melisstuniewicz9.github.io/melissa.exe/assets/img/dream-big.jpg" alt="Dream Big on pink background">
+  <img src="https://melisstuniewicz9.github.io/melissa.exe/assets/img/dream-big-img.jpg" alt="Dream Big on pink background">
   <figcaption>
     'Dream Big' text on a pink watercolor background, by Ann H. Via <a href="https://www.pexels.com/photo/motivational-slogan-against-pink-background-11159183/" target="_blank" rel="noopener">Pexels</a>
   </figcaption>
