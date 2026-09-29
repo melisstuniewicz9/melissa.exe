@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Doing Justice to Digital Stories: A Comparative Review"
+title:  "An Exmamination of Methods that Do Justice Digital Stories: A Comparative Review"
 date:   2026-09-25
 image: rose-books.jpg
 description: In this piece, I will provide a comparative review of three stories surrounding girls' education advocacy and critically discuss whether the technological mediums used to facilitate them, do justice to their narratives or render them flat,  with emphasis on how these stories evoke emotional responses from audiences. 
@@ -13,7 +13,7 @@ For this piece, I have chosen to analyze three different girls’ education acti
 #### [Varaidzo Kativhu's Honourary Doctorate Speech](https://www.youtube.com/watch?v=IWrlWGZK6MQ&t=440s)
 
 <figure>
-  <img src="assets/img/vee-books.jpg" alt="Varaidzo Kativhu with copies of her self-help book">
+  <img src="/assets/img/vee-books.jpg" alt="Varaidzo Kativhu with copies of her self-help book">
   <figcaption>
     Varaidzo Kativhu with copies of her self-help book. Via <a href="https://commons.wikimedia.org/wiki/File:Writer_Vee_Kativhu_with_copies_of_her_book_in_the_new_library_at_Wordsley_School_(51721181932).jpg" target="_blank" rel="noopener">Wikimedia Commons</a>
   </figcaption>
