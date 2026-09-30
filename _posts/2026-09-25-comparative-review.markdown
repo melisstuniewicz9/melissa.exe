@@ -72,7 +72,7 @@ For those who prefer to read rather than to listen, but still want to experience
   </figcaption>
 </figure>
 
-To conclude my analysis, I will be featuring Nigerian-American, [Zuriel Odowole](https://www.zurieloduwole.com/), who began creating short films at the age of ten in hopes of influencing discussions on education across Africa. This particular short film concerns how emotional confidence and menstrual education are integral to keeping African girls in school. 
+To conclude my analysis, I will be featuring Nigerian-American, [Zuriel Odowole](https://www.zurieloduwole.com/), who began creating short films at the age of ten in hopes of influencing discussions on education across Africa. This particular short film called _Being Unstoppable_ is about how emotional confidence and menstrual education are integral to keeping African girls in school. 
 
 I felt that it would be best to save Odowole’s short film for last, as her drive to engage in advocacy differs slightly from Kativhu and Yousafzai’s in the sense that she is not speaking from the personal. As Lambert would put it, Odowole’s short film is an example of [a story that originates from fleeting moments of encounter](https://www.storycenter.org/inventory/p/digital-storytelling-story-work-for-urgent-times) rather than autobiographical adversity, and I feel that these kinds of stories, when digitized, can potentially dilute the emotional response that is expected of audiences. To provide some additional context, Odowole was born and raised in a middle-class neighbourhood in Los Angeles and became interested in advocacy work after flying to West Africa to complete a school project, where she was surprised by the shocking number of young girls wandering the streets during school hours. 
 
